@@ -64,7 +64,7 @@
 
 2.  **克隆本项目仓库**:
     ```bash
-    git clone <你的 TitanSearch 仓库URL>
+    git clone https://github.com/forliage/TitanSearch.git
     cd TitanSearch
     ```
 
